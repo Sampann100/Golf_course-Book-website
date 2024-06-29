@@ -1,0 +1,135 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: darkgray;
+}
+
+#header1 {
+    display: flex;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+#head1 {
+    color: white;
+    font-weight: 700;
+    margin-top: 8.5px;
+}
+
+#head2 {
+    color: green;
+    font-weight: 700;
+    margin-top: 8.5px;
+}
+
+#offer:hover {
+    border: 2px solid white;
+}
+
+#offer {
+    margin-top: 11px;
+    height: 28px;
+    width: 105px;
+    background-color: yellow;
+    color: black;
+    border: 2px solid yellow;
+    font-size: x-small;
+    margin-left: 75px;
+    font-weight: 700;
+}
+
+a {
+    color: white;
+    margin-left: 50px;
+    margin-top: 15px;
+    font-weight: 700;
+}
+
+#book:hover {
+    border: 2px solid white;
+}
+
+#book {
+    margin-top: 11px;
+    height: 28px;
+    width: 105px;
+    background-color: yellow;
+    color: black;
+    border: 2px solid yellow;
+    font-size: x-small;
+    margin-left: 65px;
+    font-weight: 700;
+    font-size: x-small;
+}
+
+#p1:hover {
+    border: 2px solid white;
+}
+
+#p1 {
+    color: whitesmoke;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-left: 43px;
+}
+
+#main1 {
+    margin-top: 38px;
+    display: flex;
+    justify-content: end;
+}
+
+#box1 {
+    font-size: 130px;
+    font-weight: bolder;
+    color: whitesmoke;
+    margin-top: -650px;
+    margin-left: 65px
+}
+
+#box2 {
+    font-size: 130px;
+    font-weight: bolder;
+    color: whitesmoke;
+    margin-top: -23px;
+    margin-left: 65px
+}
+
+#box3 {
+    font-size: 130px;
+    font-weight: bolder;
+    color: whitesmoke;
+    margin-top: -23px;
+    margin-left: 65px
+}
+
+#book1:hover {
+    border: 2px solid white;
+}
+
+#book1 {
+    height: 28px;
+    width: 105px;
+    background-color: yellow;
+    border: 2px solid yellow;
+    font-size: x-small;
+    color: black;
+    margin-left: 170px;
+    margin-top: 85px
+}
+
+#book2:hover,
+a:hover {
+    border: 2px solid white;
+}
+
+#book2 {
+    height: 28px;
+    width: 110px;
+    background-color: transparent;
+    border: 2px solid skyblue;
+    font-size: x-small;
+    color: black;
+    margin-left: 250px;
+}
